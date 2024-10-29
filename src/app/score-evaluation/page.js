@@ -50,7 +50,7 @@ function ScoreEvaluation() {
             <div className='w-full lg:px-6 py-10'>
               <div className='grid grid-cols-1 md:grid-cols-2 gap-8 xl:gap-[72px]'>
 
-                <div className='p-4 flex flex-col gap-6 border-[#BFCAB3] border-2 rounded-lg'>
+                <div className='p-4 flex flex-col gap-6 border-[#BFCAB3] border-[1px] rounded-lg'>
                   <h2 className='text-[32px] font-semibold leading-10 text-[#406926]'>CAAB Score Evaluation Criteria</h2>
                   <div>
                     <p className='text-base font-normal leading-10 text-[#404A38]'>1. Compliance with laws and regulations.</p>
@@ -62,7 +62,7 @@ function ScoreEvaluation() {
                   </div>
                 </div>
 
-                <div className='p-4 flex flex-col gap-6 bg-[#CBDBFF] border-[#2262B7] border-2 rounded-lg'>
+                <div className='p-4 flex flex-col gap-6 bg-[#CBDBFF] border-[#2262B7] border-[1px] rounded-lg'>
                   <h2 className='text-[32px] font-semibold leading-10 text-[#003E82]'>CAAB Score supports CCSR</h2>
                   <div>
                     <p className='text-base font-normal leading-10 text-[#404A38]'>1. Evaluating compliance risks and vulnerabilities</p>
@@ -73,7 +73,7 @@ function ScoreEvaluation() {
                   </div>
                 </div>
 
-                <div className='p-4 flex flex-col gap-6 bg-[#CBDBFF] border-[#2262B7] border-2 rounded-lg'>
+                <div className='p-4 flex flex-col gap-6 bg-[#CBDBFF] border-[#2262B7] border-[1px] rounded-lg'>
                   <h2 className='text-[32px] font-semibold leading-10 text-[#003E82]'>Role of CorpRank</h2>
                   <div>
                     <p className='text-base font-normal leading-10 text-[#404A38]'>CorpRank through CAABScore, plays a crucial role in promoting CCSR by.</p>
@@ -85,7 +85,7 @@ function ScoreEvaluation() {
                   </div>
                 </div>
 
-                <div className='p-4 flex flex-col gap-6 border-[#BFCAB3] border-2 rounded-lg'>
+                <div className='p-4 flex flex-col gap-6 border-[#BFCAB3] border-[1px] rounded-lg'>
                   <h2 className='text-[32px] font-semibold leading-10 text-[#406926]'>Benefits of CAAB Score to CCSR</h2>
                   <div>
                     <p className='text-base font-normal leading-10 text-[#404A38]'>1. Improved compliance and risk mitigation management.</p>

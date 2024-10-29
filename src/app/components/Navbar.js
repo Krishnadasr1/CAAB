@@ -18,7 +18,7 @@ const Navbar = () => {
     };
 
   return (
-    <nav className='w-full m-0 px-4 md:px-8 lg:px-[72px] bg-white border-[#C2C6D4] border-b-2 fixed top-0 z-10'>
+    <nav className='w-full m-0 px-4 md:px-8 lg:px-[72px] bg-white border-[#C2C6D4] border-b-[1px] fixed top-0 z-10'>
 
         {/* Nav with logo  */}
         <div className='w-full h-[100px] md:h-[130px] xl:h-[152px] flex justify-between items-center'>
@@ -121,7 +121,7 @@ const Navbar = () => {
                             <p className='flex items-center gap-2 font-medium text-xs sm:text-sm'><MdPhone className='text-xl text-[#424752]'/> <span className='text-[#191C21]'>+91 7736634226</span></p>
                             <p className='flex items-center gap-2 font-medium text-xs sm:text-sm'><MdMail className='text-xl text-[#424752]'/> <span className='text-[#191C21]'>info@caabscore.com</span></p>
                         </div>
-                        <div className='mt-4 flex justify-start items-center gap-2'>
+                        <div className='mt-4 flex justify-start items-center gap-2 text-[#424752]'>
                             <Link href="">
                                 <span>
                                     <BiLogoFacebookSquare className='text-3xl' />

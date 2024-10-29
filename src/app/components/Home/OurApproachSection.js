@@ -75,7 +75,7 @@ function OurApproachSection() {
 
             <div className=''>
                 <h1 className='xl:h-10 text-center font-medium text-[#191C21] text-[32px]'>Expert Guidance and Advice</h1>
-                <p className='leading-10 mt-10'>Our team of experienced compliance professionals provides tailored solutions to meet your specific needs. We leverage cutting-edge technology to streamline compliance processes and minimize risks.<br/>
+                <p className='leading-10 mt-10 text-[#424752]'>Our team of experienced compliance professionals provides tailored solutions to meet your specific needs. We leverage cutting-edge technology to streamline compliance processes and minimize risks.<br/>
                     CAAB is more than just a corporate compliance service provider. We are a trusted advisor and partner committed to your long-term success. We understand that compliance is not a one-size-fits-all approach, and we tailor our solutions to meet your unique needs. Let us guide you towards a more compliant and confident future in your corporate navigation.
                 </p>
             </div>
@@ -88,7 +88,7 @@ function OurApproachSection() {
 
             <div className=''>
                 <h1 className='xl:h-10 text-center font-medium text-[#191C21] text-[32px]'>Data Analytics and Reporting</h1>
-                <p className='leading-10 mt-10'>
+                <p className='leading-10 mt-10 text-[#424752]'>
                     'CAABScore' gain valuable insights into your compliance performance through comprehensive data visualization and reporting tools. Therefore, the 'CAABScore' shall used by the stakeholders to rate your corporate compliance attitudes and commitment to Corporate Compliance Social Responsibility.
                 </p>
             </div>
