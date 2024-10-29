@@ -8,7 +8,7 @@ function ScoreEvaluation() {
     <div className="w-screen h-screen m-0 p-0">
         <Navbar/>
 
-        <div className='w-full mt-[100px] md:mt-[130px] xl:mt-[152px] m-0 px-4 md:px-8 lg:px-[72px] py-[72px]'>
+        <div className='w-full mt-[100px] md:mt-[130px] xl:mt-[152px] m-0 px-4 md:px-8 lg:px-[72px] py-[72px] bg-white'>
 
             <div className='w-full flex flex-col lg:flex-row gap-6'>
               <div className='w-full flex justify-center items-center lg:inline-block lg:w-1/2 lg:relative'>

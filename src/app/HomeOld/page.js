@@ -1,17 +1,17 @@
 "use client";
 import React from "react";
-import Navbar from "./components/Navbar";
+import Navbar from "../components/Navbar";
 import Image from "next/image";
-import Features from "./components/Home/Features";
+import Features from "../components/Home/Features";
 
 const HomeOld = () => {
   return (
     <div className="w-screen h-screen m-0 p-0">
       <div className="w-full min-h-[630px] m-0 p-0 bg-home-page">
-        <Navbar />
+        <Navbar/>
 
         {/* Hero Section  */}
-        <div className="w-full p-0 m-0 px-5 sm:px10 md:px-16 lg:px-24 lg:flex">
+        <div className="w-full p-0 m-0 px-5 sm:px10 md:px-16 lg:px-24 lg:flex bg-white">
           <div className="w-full lg:w-1/2 text-left">
             <p className="text-[#404753] font-bold text-3xl lg:text-5xl lg:leading-[64px]">
               Discover, <br />
